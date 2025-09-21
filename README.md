@@ -15,7 +15,7 @@ Este projeto implementa um sistema de sonar para submarino, utilizando as lingua
 - [Exemplos de Uso](#exemplos-de-uso)
 - [Contribuindo](#contribuindo)
 - [Licença](#licença)
-- [Autor](#autor)
+- [Autores](#autores)
 
 ---
 
@@ -109,8 +109,8 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-## Autor
+## Autores
 
-Desenvolvido por [Emerson Pinho](https://github.com/Emersonpinho).
+Desenvolvido por [Emerson Pinho](https://github.com/Emersonpinho) e [Pedro wagner](PedroWagnerDev).
 
 ---
