@@ -47,7 +47,7 @@ Este projeto pode ser utilizado tanto em simulações quanto integrado a hardwar
 
 - [Processing](https://processing.org/download/)
 - [Compilador C++](https://gcc.gnu.org/) (g++ recomendado)
-- [Plataforma Arduino](opcional, caso use hardware real)
+- [Plataforma Arduino](https://www.arduino.cc/en/software/)
 
 ### Passos
 
