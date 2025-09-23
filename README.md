@@ -79,9 +79,9 @@ Este projeto pode ser utilizado tanto em simulações quanto integrado a hardwar
 
 ## Dependências
 
-- Processing 3.x ou superior
-- g++ ou outro compilador C++
-- Arduino IDE e drivers, caso utilize sensores físicos
+- Processing 3.x ou superior;
+- g++ ou outro compilador C++;
+- Arduino IDE e drivers, caso utilize sensores físicos;
 
 ---
 
